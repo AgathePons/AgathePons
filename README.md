@@ -7,6 +7,15 @@ I just finished a 6 months training with the wonderful school **[O'clock](https:
 
 Now, I am getting ready to graduate and look for a new job!
 
+## Here are some of my little personal projects:
+
+- **[Bookworm Idle Game](http://ns3251440.ip-87-98-217.eu/agathe-pons/bookworm-front-app/dist/)** ➡ Idle game made with three colleagues ([API back repo](https://github.com/AgathePons/bookworm-back-API), [App front repo](https://github.com/AgathePons/bookworm-front-app))
+- **[API REST base](http://ns3251440.ip-87-98-217.eu:3001/api-docs/)** ➡ Code base with usefull tools to build a classic API REST with DataMapper ([repo](https://github.com/AgathePons/API_base_tools))
+- **[Mario Kart](http://ns3251440.ip-87-98-217.eu:3000/)** ➡ Site listing Mario Kart characters, using EJS as templating engine ([repo](https://github.com/AgathePons/Mario_Kart-Characters))
+- **[Pixel Drawing](http://ns3251440.ip-87-98-217.eu/agathe-pons/pixel_drawing_game/html/invader.html)** ➡ Drawing game in simple JS, to manipulate the DOM ([repo](https://github.com/AgathePons/pixel_drawing_game))
+
+## Also...
+
 📚 I really love SF, fantasy, and weird fiction books  
 🎮 I enjoy playing video game with friends  
 🎶 I appreciate concerts to dance on music I like  
@@ -25,13 +34,12 @@ Let's keep in touch 😊
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=ffffff)  
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)  
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=ffffff)  
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
 ![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPIInitiative&logoColor=ffffff)  
 ![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=ffffff)
-![ejs](https://img.shields.io/badge/&#60;&#37;&nbsp;EJS-90a93a?style=for-the-badge&logoColor=ffffff)
-![ejs](https://img.shields.io/badge/&#60;&#37;&nbsp;EJS-90a93a?style=for-the-badge)
+![ejs](https://img.shields.io/badge/%3C%25&nbsp;EJS-90a93a?style=for-the-badge)
 
 ## Frontend technologies
 
