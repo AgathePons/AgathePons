@@ -1,6 +1,6 @@
 # Hi there, I'm Agathe 👋
 
-I am french, and I am a young Javascript developer.
+I am french, and I am a junior Javascript developer.
 
 After almost five years at **[CGI](https://www.cgi.com/france/fr-fr)** as functional consultant, UI designer, and HTML / CSS integrator, I decided to take the step and learn how to develop web app.  
 I just finished a 6 months training with the wonderful school **[O'clock](https://oclock.io/)**, to learn **Javascript** (front/back), and I specialize myself on the back side of Javascript.
@@ -30,7 +30,8 @@ Let's keep in touch 😊
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
 ![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPIInitiative&logoColor=ffffff)  
 ![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=ffffff)
-![ejs](https://img.shields.io/badge/<%&nbsp;EJS-90a93a?style=for-the-badge&logoColor=ffffff)
+![ejs](https://img.shields.io/badge/&#60;&#37;&nbsp;EJS-90a93a?style=for-the-badge&logoColor=ffffff)
+![ejs](https://img.shields.io/badge/&#60;&#37;&nbsp;EJS-90a93a?style=for-the-badge)
 
 ## Frontend technologies
 
