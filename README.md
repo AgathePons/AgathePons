@@ -28,7 +28,9 @@ Let's keep in touch 😊
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)  
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
-![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPIInitiative&logoColor=ffffff)
+![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPIInitiative&logoColor=ffffff)  
+![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=ffffff)
+![ejs](https://img.shields.io/badge/<%&nbsp;EJS-90a93a?style=for-the-badge&logoColor=ffffff)
 
 ## Frontend technologies
 
@@ -43,6 +45,7 @@ Let's keep in touch 😊
 
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff)  
 ![visualstudio](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff)  
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=ffffff)
