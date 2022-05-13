@@ -30,8 +30,7 @@ Let's keep in touch 😊
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
 ![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPIInitiative&logoColor=ffffff)  
 ![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=ffffff)
-![ejs](https://img.shields.io/badge/&#60;&#37;&nbsp;EJS-90a93a?style=for-the-badge&logoColor=ffffff)
-![ejs](https://img.shields.io/badge/&#60;&#37;&nbsp;EJS-90a93a?style=for-the-badge)
+![ejs](https://img.shields.io/badge/%3C%25&nbsp;EJS-90a93a?style=for-the-badge)
 
 ## Frontend technologies
 
