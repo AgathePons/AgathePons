@@ -2,10 +2,10 @@
 
 I am french, and I am a junior Javascript developer.
 
-After almost five years at **[CGI](https://www.cgi.com/france/fr-fr)** as functional consultant, UI designer, and HTML / CSS integrator, I decided to take the step and learn how to develop web app.  
-I just finished a 6 months training with the wonderful school **[O'clock](https://oclock.io/)**, to learn **Javascript** (front/back), and I specialize myself on the back side of Javascript.
+After almost five years at **[CGI](https://www.cgi.com/france/fr-fr)** as functional consultant, UI designer, and HTML / CSS integrator, I decided to take a step forward and learn how to develop web app.  
+I have just finished a 6 months training with the wonderful school **[O'clock](https://oclock.io/)**, to learn **Javascript** (front/back), and I specialize myself on the back side of Javascript.
 
-Now, I am getting ready to graduate and look for a new job!
+Now, I am now about to graduate and look for a new job!
 
 ## Here are some of my little personal projects:
 
@@ -17,8 +17,8 @@ Now, I am getting ready to graduate and look for a new job!
 ## Also...
 
 📚 I really love SF, fantasy, and weird fiction books  
-🎮 I enjoy playing video game with friends  
-🎶 I appreciate concerts to dance on music I like  
+🎮 I enjoy playing video games with friends  
+🎶 I appreciate concerts to dance on the music I like  
 💪 I practice climbing, and I travel by bike
 
 Let's keep in touch 😊
