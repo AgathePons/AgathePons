@@ -43,12 +43,15 @@ Let's keep in touch 😊
 
 ## Frontend technologies
 
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff)  
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=ffffff)
-![less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=ffffff)
+![less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=ffffff)  
+![SemanticUiReact](https://img.shields.io/badge/Semantic&nbsp;UI&nbsp;React-35BDB2?style=for-the-badge&logo=Semanticuireact&logoColor=ffffff)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)  
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
 
 ## Tools
 
