@@ -11,6 +11,7 @@ I am now about to graduate and look for a new job!
 
 - **[Bookworm Idle Game](http://ns3251440.ip-87-98-217.eu/agathe-pons/bookworm-front-app/dist/)** ➡ Idle game made with three colleagues ([API back repo](https://github.com/AgathePons/bookworm-back-API), [App front repo](https://github.com/AgathePons/bookworm-front-app))
 - **[API REST base](http://ns3251440.ip-87-98-217.eu:3001/api-docs/)** ➡ Code base with usefull tools to build a classic API REST with DataMapper ([repo](https://github.com/AgathePons/API_base_tools))
+- **[Cadavre Exquis](http://ns3251440.ip-87-98-217.eu:3002)** ➡ Cadavre exquis game ([repo](https://github.com/AgathePons/cadavre_exquis))
 - **[Mario Kart](http://ns3251440.ip-87-98-217.eu:3000/)** ➡ Site listing Mario Kart characters, using EJS as templating engine ([repo](https://github.com/AgathePons/Mario_Kart-Characters))
 - **[Pixel Drawing](http://ns3251440.ip-87-98-217.eu/agathe-pons/pixel_drawing_game/html/invader.html)** ➡ Drawing game in simple JS, to manipulate the DOM ([repo](https://github.com/AgathePons/pixel_drawing_game))
 
