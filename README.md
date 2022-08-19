@@ -9,10 +9,11 @@ I am now about to graduate and look for a new job!
 
 ## Here are some of my little personal projects:
 
-- **[Bookworm Idle Game](http://ns3251440.ip-87-98-217.eu/agathe-pons/bookworm-front-app/dist/)** ➡ Idle game made with three colleagues ([API back repo](https://github.com/AgathePons/bookworm-back-API), [App front repo](https://github.com/AgathePons/bookworm-front-app))
-- **[API REST base](http://ns3251440.ip-87-98-217.eu:3001/api-docs/)** ➡ Code base with usefull tools to build a classic API REST with DataMapper ([repo](https://github.com/AgathePons/API_base_tools))
+- **[Bookworm Idle Game](http://ns3251440.ip-87-98-217.eu/agathe-pons/bookworm-front-app/dist/)** ➡ **Idle game** made with three colleagues ([API back repo](https://github.com/AgathePons/bookworm-back-API), [App front repo](https://github.com/AgathePons/bookworm-front-app))
+- **[API REST base](http://ns3251440.ip-87-98-217.eu:3001/api-docs/)** ➡ Code base with usefull tools to build a classic **API REST** with DataMapper ([repo](https://github.com/AgathePons/API_base_tools))
 - **[Cadavre Exquis](http://ns3251440.ip-87-98-217.eu:3002)** ➡ Cadavre exquis game ([repo](https://github.com/AgathePons/cadavre_exquis))
 - **[Gradient generator](http://ns3251440.ip-87-98-217.eu/agathe-pons/gradient_app_react_redux/dist/)** ➡ Small app to generate css gradient using **React** / **Redux** ([repo](https://github.com/AgathePons/react_08_redux_gradient_app))
+- **[Make me laugh](http://ns3251440.ip-87-98-217.eu/agathe-pons/make-me-laugh/)** ➡ Small app to get a joke and tell if it's a good one or a bad one, using **React** ([repo](https://github.com/AgathePons/make_me_laugh-React))
 - **[Mario Kart](http://ns3251440.ip-87-98-217.eu:3000/)** ➡ Site listing Mario Kart characters, using EJS as templating engine ([repo](https://github.com/AgathePons/Mario_Kart-Characters))
 - **[Pixel Drawing](http://ns3251440.ip-87-98-217.eu/agathe-pons/pixel_drawing_game/html/invader.html)** ➡ Drawing game in simple JS, to manipulate the DOM ([repo](https://github.com/AgathePons/pixel_drawing_game))
 
@@ -40,8 +41,6 @@ Let's keep in touch 😊
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=ffffff)  
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000000)
 ![openapi](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPIInitiative&logoColor=ffffff)  
-![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=ffffff)
-![ejs](https://img.shields.io/badge/%3C%25&nbsp;EJS-90a93a?style=for-the-badge)
 
 ## Frontend technologies
 
@@ -54,6 +53,8 @@ Let's keep in touch 😊
 ![less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=ffffff)  
 ![SemanticUiReact](https://img.shields.io/badge/Semantic&nbsp;UI&nbsp;React-35BDB2?style=for-the-badge&logo=Semanticuireact&logoColor=ffffff)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)  
+![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=ffffff)
+![ejs](https://img.shields.io/badge/%3C%25&nbsp;EJS-90a93a?style=for-the-badge)
 
 ## Tools
 
