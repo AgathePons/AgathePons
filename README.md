@@ -5,7 +5,7 @@ I am french, and I am a junior Javascript developer.
 After almost five years at **[CGI](https://www.cgi.com/france/fr-fr)** as functional consultant, UI designer, and HTML / CSS integrator, I decided to take a step forward and learn how to develop web app.  
 Last year, I took a 6 months training with the wonderful school **[O'clock](https://oclock.io/)**, to learn **Javascript** (front/back), and I specialize myself on the back side of Javascript. I graduated with the RNCP title "Developer Web and mobile Web" this summer, then I trained myself on **React**.
 
-I am now about to start a 4 months training to learn Java, after which I will start my new job at **[Inetum](https://www.inetum.com/fr)** as junior developer.
+I am now about to start a 4 months training to learn **Java**, after which I will start my new job at **[Inetum](https://www.inetum.com/fr)** as junior developer.
 
 ## Here are some of my little personal projects:
 
